@@ -2,7 +2,7 @@
 //2. Print your name, age, and favorite programming language
 public class Aboutme {
     public static void main(String[] args) {
-        String name = "Shankar";
+        String name = "Muthuraj c";
         int age = 20;
         String language = "Java";
         System.out.println("Name: " + name);
@@ -10,3 +10,4 @@ public class Aboutme {
         System.out.println("Favorite Language: " + language);
     }
 }
+
